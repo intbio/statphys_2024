@@ -1,3 +1,3 @@
-# Современные проблемы биологии 2022
+# Статфизика 2024
 
-[http://intbio.org/spb_2022/](http://intbio.org/spb_2022/)
+[http://intbio.org/statphys_2024/](http://intbio.org/statphys_2024/)
