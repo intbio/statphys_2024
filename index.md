@@ -40,10 +40,14 @@ TBD
 - Хохлов и Гросберг [Полимеры и биополимеры с точки зрения физики](https://www.labirint.ru/books/487320/)
 - Финкильштейн и Птицын [Физика белка](https://mol.bio.msu.ru/res/DOC61/2012_Book_fizika_belka.pdf)
 
-<details><summary><ins>Лекция 1.</ins> Обзор.
-<a href="">Слайды лекции.</a> 
+### План лекций
+
+<details><summary><ins>Лекция 1. Место статистической физики в научном познании</ins> 
+<a href="https://www.dropbox.com/scl/fi/wn5dp105p4pzim8j6k7wq/Lecture1.ppt?rlkey=9xedwjx2h1hp9xc5bbir1w2hp&dl=0">Слайды лекции.</a> 
 <br>
 </details>
- 
+
+ ### Отчетность по курсу
+ - Зачет. Нужно будет уметь вывести основные формулы статфизики и ответить на вопросы по ним.
 
 ### Вопросы к экзамену
