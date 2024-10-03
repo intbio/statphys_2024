@@ -34,6 +34,12 @@
 - Статфизика биологических молекул.
 TBD
 
+### Рекомендованная литература
+- Матухин и Шмидт [Статистическая физика](https://lib.kgeu.ru/irbis64r_15/scan/188эл.pdf)
+- Тамм (Хохлов) [Лекции по физике полимеров](https://teach-in.ru/file/synopsis/pdf/polymer-physics-M.pdf)
+- Хохлов и Гросберг [Полимеры и биополимеры с точки зрения физики](https://www.labirint.ru/books/487320/)
+- Финкильштейн и Птицын [Физика белка](https://mol.bio.msu.ru/res/DOC61/2012_Book_fizika_belka.pdf)
+
 <details><summary><ins>Лекция 1.</ins> Обзор.
 <a href="">Слайды лекции.</a> 
 <br>
