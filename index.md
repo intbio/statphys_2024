@@ -42,7 +42,7 @@ TBD
 
 ### План лекций
 
-<details><summary><ins>Лекция 1. Место статистической физики в научном познании</ins> 
+<details><summary><ins>Лекция 1. Место статистической физики в научном познании. Основы механики</ins> 
 <a href="https://www.dropbox.com/scl/fi/wn5dp105p4pzim8j6k7wq/Lecture1.ppt?rlkey=9xedwjx2h1hp9xc5bbir1w2hp&dl=0">Слайды лекции.</a> 
 <br>
 </details>
