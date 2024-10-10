@@ -46,10 +46,16 @@ TBD
 
 ### План лекций
 
-<details><summary><ins>Лекция 1. Место статистической физики в научном познании. Основы механики</ins> 
-<a href="https://www.dropbox.com/scl/fi/wn5dp105p4pzim8j6k7wq/Lecture1.ppt?rlkey=9xedwjx2h1hp9xc5bbir1w2hp&dl=0">Слайды лекции.</a> 
+<details><summary><ins>Лекция 1. Место статистической физики в научном познании. Основы механики.</ins> 
+<a href="https://www.dropbox.com/scl/fi/wn5dp105p4pzim8j6k7wq/Lecture1.ppt?rlkey=9xedwjx2h1hp9xc5bbir1w2hp&dl=0">Слайды лекции.</a> </summary>
 <br>
 </details>
+
+<details><summary><ins>Лекция 2. Понятие энтропии и ее статистическое обоснование.</ins> 
+<a href="https://www.dropbox.com/scl/fi/l6eg48xbdwhrnovkgivbo/Lecture2.ppt?rlkey=9dd9e5d5dy2n5mqvfdxv2ob6d&dl=0">Слайды лекции.</a> </summary>
+<br>
+</details>
+
 
  ### Отчетность по курсу
  - Зачет. Нужно будет уметь вывести основные формулы статфизики и ответить на вопросы по ним.
