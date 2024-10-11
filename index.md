@@ -42,6 +42,7 @@ TBD
 
 ### Полезная литература
 - Еремин и др. [Основы физической химии](https://studizba.com/show/1134485-1-vv-eremin-ia-uspenskaya-si-kargov-ne.html)
+- Сивухин [Курс общей физики. Термодинамика](http://dec1.sinp.msu.ru/~panov/LibBooks/SIVUKHIN/Sivuhin_D.V._Kurs_obwej_fiziki._Tom_2-arpg75zl9bj.pdf)
 - Ландау и Лифшиц [Статистическая физика. Часть 1](https://ftfsite.ru/wp-content/files/landau_statfiz_4.2.pdf)
 
 ### План лекций
