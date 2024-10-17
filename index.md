@@ -57,6 +57,11 @@ TBD
 <br>
 </details>
 
+<details><summary><ins>Лекция 3. Продолжение. Микроканонический ансамбль. Канонический ансамбль</ins> 
+<a href="https://www.dropbox.com/scl/fi/0taqj8fzjwsnh7h93pw0l/Lecture3.ppt?rlkey=cb8lyj2btdab7g37a23zvfkok&dl=0">Слайды лекции.</a> </summary>
+<br>
+</details>
+
 
  ### Отчетность по курсу
  - Зачет. Нужно будет уметь вывести основные формулы статфизики и ответить на вопросы по ним.
