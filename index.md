@@ -61,6 +61,7 @@ TBD
 <a href="https://www.dropbox.com/scl/fi/0taqj8fzjwsnh7h93pw0l/Lecture3.ppt?rlkey=cb8lyj2btdab7g37a23zvfkok&dl=0">Слайды лекции.</a> </summary>
 <br>
 </details>
+
 <details><summary><ins>Лекция 4. Продолжение. Микроканонический ансамбль. Канонический ансамбль</ins> 
 <a href="https://www.dropbox.com/scl/fi/sumqtav3dp2ebcu1jqjp6/Lecture4.ppt?rlkey=vie0b8yqw7kgsi2whh9gdz3d7&dl=0">Слайды лекции.</a> </summary>
 <br>
