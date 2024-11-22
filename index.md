@@ -1,7 +1,7 @@
 <a href="https://github.com/intbio/statphys_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 # Статистическая физика для биологов (Осень 2024) 4 курс 
 
-### Contact information
+### Contact information 
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
 - [Folder with presentations]()
 
